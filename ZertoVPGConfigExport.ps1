@@ -24,7 +24,7 @@
 # Change history:
 # 2017-10-19 - Refactored including:
 #               - Encapsulate API calls into a function that control the "Accept" header to proper interact with the API
-#               - Including optinal verbose output for debugging purposes
+#               - Including optional verbose output for debugging purposes
 #               - Including optional logging
 #               - Removing plain text password to improve security
 ################################################
