@@ -15,7 +15,7 @@
 # - VMtools installed in all protected VMs
 ################################################
 # Legal Disclaimer:
-# This script is written by Joshua Stenhouse is not supported under any Zerto support program or service. 
+# This script is written by Joshua Stenhouse and re-factore by Geraldo Magella and is not supported under any Zerto support program or service. 
 # All scripts are provided AS IS without warranty of any kind. 
 # The author and Zerto further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. 
 # The entire risk arising out of the use or performance of the sample scripts and documentation remains with you. 
